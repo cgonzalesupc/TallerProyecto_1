@@ -1,0 +1,4 @@
+E:\UPC\TP1\Proyecto_tp1\Proyecto_tp1\bin\Proyecto_tp1.dll
+E:\UPC\TP1\Proyecto_tp1\Proyecto_tp1\bin\Proyecto_tp1.pdb
+E:\UPC\TP1\Proyecto_tp1\Proyecto_tp1\obj\Debug\Proyecto_tp1.dll
+E:\UPC\TP1\Proyecto_tp1\Proyecto_tp1\obj\Debug\Proyecto_tp1.pdb
